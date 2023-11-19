@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UltraBoostFlyOver.unity
+    guid: f27a412665789fa43a0069103e99d7fc
+  - enabled: 1
+    path: Assets/Scenes/UltraBoostFlyLevel2.unity
+    guid: 94ef5995ec82190469bb2e7c66ef4ac5
+  m_configObjects: {}
